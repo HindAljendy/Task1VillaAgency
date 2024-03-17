@@ -5,7 +5,7 @@ import './index.css'
 import { BrowserRouter } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const subdirectory ='/task1';
+const subdirectory ='/Task1VillaAgency';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode basename = {subdirectory}>
