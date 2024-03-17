@@ -1,5 +1,5 @@
 .HJ_ContactSection{
-    height: 100vh;
+    height: 1353.66px;
 }
 
 .HJ_ContactSection .HJ_Contact{
@@ -61,6 +61,13 @@
     }
    
 
+
+}
+
+@media screen and (min-width: 1303px) and (max-width: 1919px) {
+    .HJ_ContactSection{
+        height: 150vh;
+    }
 
 }
 

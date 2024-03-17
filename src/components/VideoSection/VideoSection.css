@@ -1,5 +1,5 @@
 .HJ_VideoSection{
-    height: 120vh;
+  height: 1353.66px;
 }
 .HJ_Video{
     background-image: url(./../../assets/images/video-bg.jpg);
@@ -8,7 +8,7 @@
     background-position: center center;
     padding: 100px 0px 250px 0px;
     position: relative;
-    height: 626px; 
+     height: 626px;  
 }
 
 .HJ_SectionHeading{
@@ -122,9 +122,6 @@
     }
     .HJ_VideoSection .HJ_Boxes_Video{
         gap: 40px;
-    }
-    .HJ_VideoSection{
-        height: 110vh;
     }
 
 }
