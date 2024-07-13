@@ -22,7 +22,7 @@ const NavBar = () => {
             <ul className={isOpen ? 'HJ_navbar-menu active' : 'HJ_navbar-menu'}>
               <li className="HJ_link">
                 <NavLink
-                  to="/"
+                  to="/Task1VillaAgency"
                   className={({ isActive }) => (isActive ? "active" : "")}
                 >
                   Home

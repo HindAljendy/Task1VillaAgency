@@ -34,7 +34,7 @@ const SinglePropertyDetails = () => {
                 PBR&B DSA poutine neutra cardigan hoodie pop-up.
               </p>
               <div className="HJ_Accordion HJ_MainSpace">
-               <AccordionFeaturesVilla/>
+                <AccordionFeaturesVilla/>
             </div>
             </div>
           </div>
